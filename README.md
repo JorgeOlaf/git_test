@@ -1,0 +1,1 @@
+This is Olaf's first git project
